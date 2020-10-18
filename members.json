@@ -1,0 +1,16 @@
+[
+    {
+    "userId": 1,
+    "userName": "sally",
+    "friendId": 1,
+    "friendName": "matias",
+    "questionAnswer": [3,4,4,4,1]
+    },
+    {
+    "userId": 2,
+    "userName": "pini",
+    "friendId": 2,
+    "friendName": "natali",
+    "questionAnswer": [2,4,1,3,5]
+    }
+]

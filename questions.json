@@ -1,0 +1,7 @@
+[
+    { "id": 1, "question": "What is the most important thing in life", "answers": ["Health", "Happiness", "Love", "Money"] },
+    { "id": 2, "question": "What food you like most", "answers": ["Ice-Cream", "Pizza", "Pasta", "Red Meet"] },
+    { "id": 3, "question": "What is my favorite color", "answers": ["Blue", "Green", "Black", "White"] },
+    { "id": 4, "question": "What is the most importent thing I have", "answers": ["My car", "My husbend", "My daughter", "My husbend and dother"] },
+    { "id": 5, "question": "What is the thing i love the most", "answers": ["Cooke", "Dance", "Sleep", "Eat"] }
+]
