@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const users = require('./members.json');
 const questions = require('./questions.json');
 const userResults = require('./users.json');
+const cors = require('cors');
 
 const port = process.env.PORT || 3030;
 const app = express();
